@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+}
+main{
+    background-color:white;
+    border-radius: 10px;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    text-indent: 20px;
+    text-align: justify;
+}
+h1#principal{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 90px;
+    background-color: antiquewhite;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+p{
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h2#segundario{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 90px;
+    background-color: antiquewhite;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+   
+}
+
+
+h2{
+    color: rgb(0, 0, 0);
+    text-indent: 5px;
+}   
